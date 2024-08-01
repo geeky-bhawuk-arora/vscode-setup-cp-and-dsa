@@ -11,3 +11,6 @@ For more details, visit the [YouTube video](https://www.youtube.com/watch?v=h3uD
 2. **Python** by Microsoft
 3. **Java Extension Pack** by Microsoft
 4. **Code Runner** by Jun Han
+
+## How to Run 📜
+To run your file, press `Ctrl + Shift + B`.
