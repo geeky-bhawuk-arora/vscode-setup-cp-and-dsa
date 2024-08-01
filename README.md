@@ -1,1 +1,1 @@
-# vscode-setup-cp-and-dsa
+# Visual Studio Code Setup for CP and DSA
